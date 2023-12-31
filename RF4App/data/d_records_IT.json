@@ -1,0 +1,2256 @@
+[
+  [
+    "American plaice",
+    "1.389 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 004",
+    ""
+  ],
+  [
+    "Arctic Char",
+    "490 g",
+    "Yama River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Asp",
+    "2.645 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Asp",
+    "2.331 kg",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Asp",
+    "2.246 kg",
+    "Winding Rivulet",
+    "Furry T01",
+    ""
+  ],
+  [
+    "Asp",
+    "2.191 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Asp",
+    "1.458 kg",
+    "Winding Rivulet",
+    "Dragonfly Stream 2-006",
+    ""
+  ],
+  [
+    "Atlantic cod",
+    "23.100 kg",
+    "Norwegian Sea",
+    "Lynns Minnow 80-006",
+    ""
+  ],
+  [
+    "Atlantic cod",
+    "19.741 kg",
+    "Norwegian Sea",
+    "RealSquid - 26 - 01",
+    ""
+  ],
+  [
+    "Atlantic cod",
+    "10.763 kg",
+    "Norwegian Sea",
+    "Jiggmeister DC 110",
+    ""
+  ],
+  [
+    "Atlantic cod",
+    "8.532 kg",
+    "Norwegian Sea",
+    "Lynns Minnow 80-002",
+    ""
+  ],
+  [
+    "Atlantic cod",
+    "7.110 kg",
+    "Norwegian Sea",
+    "Lynns Minnow 80-006",
+    ""
+  ],
+  [
+    "Atlantic herring",
+    "504 g",
+    "Norwegian Sea",
+    "Natural Shrimp 13 - 02",
+    ""
+  ],
+  [
+    "Atlantic herring",
+    "204 g",
+    "Norwegian Sea",
+    "RealShrimp 6.5 - 01",
+    ""
+  ],
+  [
+    "Atlantic herring",
+    "137 g",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 02",
+    ""
+  ],
+  [
+    "Atlantic mackerel",
+    "1.096 kg",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 02",
+    ""
+  ],
+  [
+    "Atlantic mackerel",
+    "1.055 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 001",
+    ""
+  ],
+  [
+    "Atlantic mackerel",
+    "706 g",
+    "Norwegian Sea",
+    "Lurker 200-07",
+    ""
+  ],
+  [
+    "Atlantic mackerel",
+    "466 g",
+    "Norwegian Sea",
+    "RealShrimp 6.5 - 01",
+    ""
+  ],
+  [
+    "Atlantic mackerel",
+    "426 g",
+    "Norwegian Sea",
+    "Jiggmeister DC 110",
+    ""
+  ],
+  [
+    "Atlantic Salmon",
+    "13.425 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Atlantic Salmon",
+    "9.894 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Atlantic Salmon",
+    "9.529 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Atlantic Salmon",
+    "7.524 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Atlantic Salmon",
+    "6.983 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Atlantic saury",
+    "516 g",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 02",
+    ""
+  ],
+  [
+    "Atlantic saury",
+    "452 g",
+    "Norwegian Sea",
+    "RealShrimp 6.5 - 01",
+    ""
+  ],
+  [
+    "Atlantic saury",
+    "442 g",
+    "Norwegian Sea",
+    "RealShrimp 6.5 - 01",
+    ""
+  ],
+  [
+    "Atlantic saury",
+    "359 g",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 02",
+    ""
+  ],
+  [
+    "Atlantic saury",
+    "237 g",
+    "Norwegian Sea",
+    "RealShrimp 6.5 - 01",
+    ""
+  ],
+  [
+    "Atlantic wolffish",
+    "15.471 kg",
+    "Norwegian Sea",
+    "Stor Fisk L33-600 #5",
+    ""
+  ],
+  [
+    "Atlantic wolffish",
+    "10.310 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "Atlantic wolffish",
+    "4.825 kg",
+    "Norwegian Sea",
+    "Natural Squid - 23 - 07",
+    ""
+  ],
+  [
+    "Atlantic wolffish",
+    "2.415 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 001",
+    ""
+  ],
+  [
+    "Bastard Sturgeon",
+    "4.607 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Beloribitsa Whitefish",
+    "8.910 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Beloribitsa Whitefish",
+    "8.411 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Beloribitsa Whitefish",
+    "7.300 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Beloribitsa Whitefish",
+    "4.258 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Beloribitsa Whitefish",
+    "4.182 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Bighead Carp",
+    "10.524 kg",
+    "Akhtuba River",
+    "Crawfish Pellets 14",
+    "Crab & Fish Pellets 14"
+  ],
+  [
+    "Bighead Carp",
+    "6.212 kg",
+    "Akhtuba River",
+    "Crawfish Pellets 14",
+    "Crab & Fish Pellets 14"
+  ],
+  [
+    "Bighead Carp",
+    "4.974 kg",
+    "Akhtuba River",
+    "Crawfish Pellets 14",
+    "Crab & Fish Pellets 14"
+  ],
+  [
+    "Bighead Carp",
+    "4.891 kg",
+    "Akhtuba River",
+    "Crawfish Pellets 14",
+    "Crab & Fish Pellets 14"
+  ],
+  [
+    "Bighead Carp",
+    "4.831 kg",
+    "Akhtuba River",
+    "Crawfish Pellets 14",
+    "Crab & Fish Pellets 14"
+  ],
+  [
+    "Black whitefish",
+    "343 g",
+    "Ladoga archipelago",
+    "Stinky Stick 2.5-001",
+    ""
+  ],
+  [
+    "Bleak",
+    "91 g",
+    "Mosquito Lake",
+    "Caster",
+    ""
+  ],
+  [
+    "Bleak",
+    "52 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Bleak",
+    "51 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Bleak",
+    "44 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Bleak",
+    "41 g",
+    "Mosquito Lake",
+    "Fly",
+    ""
+  ],
+  [
+    "Blue Bream",
+    "252 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Blue Bream",
+    "163 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Blue Bream",
+    "63 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Blue whiting",
+    "182 g",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 01",
+    ""
+  ],
+  [
+    "Blunt-snouted lenok",
+    "683 g",
+    "Yama River",
+    "Grasshopper",
+    ""
+  ],
+  [
+    "Brazhnikov Herring",
+    "283 g",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Brazhnikov Herring",
+    "242 g",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Brazhnikov Herring",
+    "165 g",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Bream",
+    "3.121 kg",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Bream",
+    "2.839 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Bream",
+    "2.525 kg",
+    "Belaya River",
+    "Pearl barley",
+    ""
+  ],
+  [
+    "Bream",
+    "2.462 kg",
+    "Belaya River",
+    "Pearl barley",
+    ""
+  ],
+  [
+    "Bream",
+    "2.386 kg",
+    "Belaya River",
+    "Pearl barley",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "402 g",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "272 g",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "227 g",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "216 g",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "172 g",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Burbot",
+    "3.756 kg",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Burbot",
+    "3.500 kg",
+    "Volkhov River",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Burbot",
+    "3.395 kg",
+    "Volkhov River",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Burbot",
+    "2.546 kg",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Burbot",
+    "1.711 kg",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Catfish",
+    "29.861 kg",
+    "Akhtuba River",
+    "Lynns Huge Minnow 120-007",
+    ""
+  ],
+  [
+    "Catfish",
+    "25.201 kg",
+    "Akhtuba River",
+    "Lynns Huge Minnow 120-007",
+    ""
+  ],
+  [
+    "Catfish",
+    "13.989 kg",
+    "Akhtuba River",
+    "Lynns Huge Minnow 120-007",
+    ""
+  ],
+  [
+    "Catfish",
+    "11.186 kg",
+    "Akhtuba River",
+    "Lynns Huge Minnow 120-007",
+    ""
+  ],
+  [
+    "Catfish",
+    "10.615 kg",
+    "Akhtuba River",
+    "Lynns Huge Minnow 120-007",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "219 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "211 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "175 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "166 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "160 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Chub",
+    "1.874 kg",
+    "Mosquito Lake",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Chub",
+    "1.772 kg",
+    "Belaya River",
+    "Pearl barley",
+    ""
+  ],
+  [
+    "Chub",
+    "1.581 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Chub",
+    "1.297 kg",
+    "Winding Rivulet",
+    "Dragonfly Stream 2-006",
+    ""
+  ],
+  [
+    "Chub",
+    "1.162 kg",
+    "Mosquito Lake",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Chum Salmon",
+    "3.932 kg",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Chum Salmon",
+    "3.694 kg",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Chum Salmon",
+    "3.557 kg",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Chum Salmon",
+    "3.289 kg",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Chum Salmon",
+    "3.008 kg",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Coho Salmon",
+    "3.339 kg",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Coho Salmon",
+    "2.816 kg",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Coho Salmon",
+    "2.579 kg",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Coho Salmon",
+    "1.688 kg",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Coho Salmon",
+    "1.107 kg",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Common Carp",
+    "22.509 kg",
+    "The Amber Lake",
+    "Neutral 20",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Common Carp",
+    "18.521 kg",
+    "The Amber Lake",
+    "Neutral 25",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Common Carp",
+    "11.215 kg",
+    "The Amber Lake",
+    "Neutral 20",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Common Carp",
+    "10.265 kg",
+    "The Amber Lake",
+    "Tutti-Frutti 15 Soluble",
+    "Tutti Frutti 15"
+  ],
+  [
+    "Common Carp",
+    "9.662 kg",
+    "The Amber Lake",
+    "Neutral 20",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Common Roach",
+    "1.079 kg",
+    "Mosquito Lake",
+    "Maggot",
+    ""
+  ],
+  [
+    "Common Roach",
+    "899 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Common Roach",
+    "779 g",
+    "Belaya River",
+    "Pearl barley",
+    ""
+  ],
+  [
+    "Common Roach",
+    "699 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Common Roach",
+    "619 g",
+    "Old Burg Lake",
+    "Garlic dough",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "1.218 kg",
+    "Old Burg Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "957 g",
+    "Mosquito Lake",
+    "Oatmeal porridge",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "793 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "749 g",
+    "Old Burg Lake",
+    "Leech",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "673 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Cusk",
+    "6.138 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 001",
+    ""
+  ],
+  [
+    "Cusk",
+    "5.610 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "Cusk",
+    "5.395 kg",
+    "Norwegian Sea",
+    "Lurker 100-03",
+    ""
+  ],
+  [
+    "Cusk",
+    "4.874 kg",
+    "Norwegian Sea",
+    "Jiggmeister DC 110",
+    ""
+  ],
+  [
+    "Cusk",
+    "4.225 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "Dace",
+    "105 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Dace",
+    "65 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Dace",
+    "59 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Dace",
+    "55 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Dace",
+    "51 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Dolly Varden Trout",
+    "1.055 kg",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Dolly Varden Trout",
+    "982 g",
+    "Yama River",
+    "Dung beetle",
+    "Mayfly"
+  ],
+  [
+    "Dolly Varden Trout",
+    "916 g",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Dolly Varden Trout",
+    "857 g",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Dolly Varden Trout",
+    "615 g",
+    "Yama River",
+    "Grasshopper",
+    "Mayfly larva"
+  ],
+  [
+    "Donets Ruffe",
+    "112 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "East Siberian Grayling",
+    "627 g",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "East Siberian Grayling",
+    "597 g",
+    "Yama River",
+    "Grasshopper",
+    "Mayfly larva"
+  ],
+  [
+    "East Siberian Grayling",
+    "587 g",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "East Siberian Grayling",
+    "562 g",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "East Siberian Grayling",
+    "543 g",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Edible crab",
+    "369 g",
+    "Norwegian Sea",
+    "Lynns Minnow 80-006",
+    ""
+  ],
+  [
+    "Eel",
+    "764 g",
+    "Volkhov River",
+    "Pieces of fish",
+    ""
+  ],
+  [
+    "European plaice",
+    "1.802 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 004",
+    ""
+  ],
+  [
+    "European plaice",
+    "1.784 kg",
+    "Norwegian Sea",
+    "Fillet strip - Saithe",
+    ""
+  ],
+  [
+    "European plaice",
+    "1.446 kg",
+    "Norwegian Sea",
+    "Jiggmeister DC 110",
+    ""
+  ],
+  [
+    "European plaice",
+    "817 g",
+    "Norwegian Sea",
+    "Lynns Minnow 80-006",
+    ""
+  ],
+  [
+    "European plaice",
+    "715 g",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "European squid",
+    "692 g",
+    "Norwegian Sea",
+    "Hunter 1000-1",
+    ""
+  ],
+  [
+    "Frame-sided carp",
+    "8.268 kg",
+    "The Amber Lake",
+    "Neutral 20",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Frame-sided carp",
+    "5.822 kg",
+    "The Amber Lake",
+    "Tutti-Frutti 15 Soluble",
+    "Tutti Frutti 15"
+  ],
+  [
+    "Frame-sided carp",
+    "5.792 kg",
+    "The Amber Lake",
+    "Neutral 20",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Gibel Carp",
+    "1.913 kg",
+    "The Amber Lake",
+    "Neutral 20",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Gibel Carp",
+    "1.395 kg",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "1.036 kg",
+    "Mosquito Lake",
+    "Oatmeal porridge",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "898 g",
+    "Mosquito Lake",
+    "Garlic dough",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "789 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Grass Carp",
+    "8.894 kg",
+    "The Amber Lake",
+    "Neutral 20",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Grass Carp",
+    "8.253 kg",
+    "Bear Lake",
+    "Cocos & Cream 22 Pop-Up",
+    "Coco & Cream Flavor White"
+  ],
+  [
+    "Grass Carp",
+    "4.944 kg",
+    "The Amber Lake",
+    "Tutti-Frutti 15 Soluble",
+    "Tutti-Frutti 20"
+  ],
+  [
+    "Grass Carp",
+    "3.712 kg",
+    "Bear Lake",
+    "Fresh Raspberry Pop-Up 16",
+    "Raspberry Flavor Purple"
+  ],
+  [
+    "Grayling",
+    "3.027 kg",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Grayling",
+    "964 g",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Grayling",
+    "821 g",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Grayling",
+    "719 g",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Grayling",
+    "709 g",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "35 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "31 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "26 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Haddock",
+    "9.327 kg",
+    "Norwegian Sea",
+    "Fillet strip - Saithe",
+    ""
+  ],
+  [
+    "Haddock",
+    "6.194 kg",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 02",
+    ""
+  ],
+  [
+    "Haddock",
+    "6.051 kg",
+    "Norwegian Sea",
+    "Lurker 400-07",
+    ""
+  ],
+  [
+    "Haddock",
+    "5.045 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 004",
+    ""
+  ],
+  [
+    "Haddock",
+    "4.124 kg",
+    "Norwegian Sea",
+    "Lurker 100-03",
+    ""
+  ],
+  [
+    "Ide",
+    "2.235 kg",
+    "Akhtuba River",
+    "Crawfish Pellets 14",
+    "Crab & Fish Pellets 14"
+  ],
+  [
+    "Ide",
+    "1.581 kg",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Ide",
+    "1.500 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Ide",
+    "1.180 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Ide",
+    "1.058 kg",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Kamchatkan Rainbow Trout",
+    "1.287 kg",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Kamchatkan Rainbow Trout",
+    "1.208 kg",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Kamchatkan Rainbow Trout",
+    "1.186 kg",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Kessler's Herring",
+    "442 g",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Ladoga salmon",
+    "4.734 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Ladoga salmon",
+    "3.999 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Ladoga salmon",
+    "3.160 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Ladoga salmon",
+    "2.685 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Ladoga salmon",
+    "1.300 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Lake Trout",
+    "6.022 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Lake Trout",
+    "2.317 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Lake Trout",
+    "2.243 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Lake Trout",
+    "2.224 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Lake Trout",
+    "2.212 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Levanidov's Char",
+    "597 g",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Linear carp",
+    "13.170 kg",
+    "The Amber Lake",
+    "Neutral 25",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Longhead dab",
+    "213 g",
+    "Norwegian Sea",
+    "Lurker 100-07",
+    ""
+  ],
+  [
+    "Longnose Sucker",
+    "336 g",
+    "Yama River",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Lumpfish",
+    "1.531 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "Lumpfish",
+    "1.457 kg",
+    "Norwegian Sea",
+    "Lurker 100-07",
+    ""
+  ],
+  [
+    "Lumpfish",
+    "1.159 kg",
+    "Norwegian Sea",
+    "Lynns Minnow 80-006",
+    ""
+  ],
+  [
+    "Lumpfish",
+    "852 g",
+    "Norwegian Sea",
+    "Foam-rubber fish 001",
+    ""
+  ],
+  [
+    "Lumpfish",
+    "228 g",
+    "Norwegian Sea",
+    "Maggot 4-004",
+    ""
+  ],
+  [
+    "Masu",
+    "1.012 kg",
+    "Yama River",
+    "Soturi 22g-009",
+    ""
+  ],
+  [
+    "Masu",
+    "584 g",
+    "Yama River",
+    "Spinnerbait #1 004",
+    ""
+  ],
+  [
+    "Masu sedentary",
+    "1.781 kg",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Masu sedentary",
+    "1.748 kg",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Masu sedentary",
+    "1.645 kg",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Masu sedentary",
+    "1.631 kg",
+    "Yama River",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Masu sedentary",
+    "1.296 kg",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Mirror Carp",
+    "11.067 kg",
+    "Bear Lake",
+    "Fresh Raspberry Pop-Up 20",
+    "Raspberry Flavor Purple"
+  ],
+  [
+    "Mirror Carp",
+    "7.091 kg",
+    "Bear Lake",
+    "Fresh Raspberry Pop-Up 20",
+    "Raspberry Flavor Purple"
+  ],
+  [
+    "Mirror Carp",
+    "6.379 kg",
+    "The Amber Lake",
+    "Neutral 25",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Mirror Carp",
+    "6.138 kg",
+    "The Amber Lake",
+    "Neutral 20",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Mirror Carp",
+    "5.949 kg",
+    "Bear Lake",
+    "Fresh Raspberry Pop-Up 16",
+    "Raspberry Flavor Purple"
+  ],
+  [
+    "Mirror ghost carp",
+    "4.311 kg",
+    "The Amber Lake",
+    "Neutral 20",
+    "Tutti-Frutti 20 Soluble"
+  ],
+  [
+    "Nase",
+    "649 g",
+    "Volkhov River",
+    "A bunch of algae",
+    ""
+  ],
+  [
+    "Nase",
+    "401 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Nase",
+    "316 g",
+    "Volkhov River",
+    "A bunch of algae",
+    ""
+  ],
+  [
+    "Nase",
+    "193 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Nase",
+    "183 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Perch",
+    "1.212 kg",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Perch",
+    "1.202 kg",
+    "Volkhov River",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Perch",
+    "1.086 kg",
+    "Belaya River",
+    "Spiker #2 012",
+    ""
+  ],
+  [
+    "Perch",
+    "1.001 kg",
+    "Winding Rivulet",
+    "Dragonfly Stream 2-004",
+    ""
+  ],
+  [
+    "Perch",
+    "994 g",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Pike",
+    "2.465 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Pike",
+    "1.451 kg",
+    "Belaya River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Pike",
+    "1.384 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Pike",
+    "1.117 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Pike",
+    "989 g",
+    "Belaya River",
+    "Squirrel 45",
+    ""
+  ],
+  [
+    "Pink Salmon",
+    "291 g",
+    "Yama River",
+    "For zander #2",
+    ""
+  ],
+  [
+    "Pink Salmon",
+    "235 g",
+    "Yama River",
+    "Spinnerbait #1 004",
+    ""
+  ],
+  [
+    "Pollock",
+    "7.676 kg",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 02",
+    ""
+  ],
+  [
+    "Pollock",
+    "6.988 kg",
+    "Norwegian Sea",
+    "Lurker 100-07",
+    ""
+  ],
+  [
+    "Pollock",
+    "4.226 kg",
+    "Norwegian Sea",
+    "RealShrimp 6.5 - 01",
+    ""
+  ],
+  [
+    "Pollock",
+    "3.254 kg",
+    "Norwegian Sea",
+    "Natural Shrimp 13 - 02",
+    ""
+  ],
+  [
+    "Pollock",
+    "3.093 kg",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 02",
+    ""
+  ],
+  [
+    "Ripus",
+    "187 g",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Ripus",
+    "169 g",
+    "Ladoga archipelago",
+    "Stinky Stick 2.5-001",
+    ""
+  ],
+  [
+    "Ripus",
+    "136 g",
+    "Ladoga archipelago",
+    "Stinky Stick 2.5-001",
+    ""
+  ],
+  [
+    "River mussel",
+    "56 g",
+    "Akhtuba River",
+    "Lynns Huge Minnow 120-007",
+    ""
+  ],
+  [
+    "River mussel",
+    "41 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "River mussel",
+    "39 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Ruffe",
+    "146 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Ruffe",
+    "88 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Ruffe",
+    "83 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Ruffe",
+    "75 g",
+    "Belaya River",
+    "Worm",
+    ""
+  ],
+  [
+    "Ruffe",
+    "68 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Saithe",
+    "9.407 kg",
+    "Norwegian Sea",
+    "Lurker 400-07",
+    ""
+  ],
+  [
+    "Saithe",
+    "9.105 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "Saithe",
+    "8.827 kg",
+    "Norwegian Sea",
+    "Lynns Minnow 80-002",
+    ""
+  ],
+  [
+    "Saithe",
+    "8.606 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 001",
+    ""
+  ],
+  [
+    "Saithe",
+    "8.248 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 001",
+    ""
+  ],
+  [
+    "Sardine",
+    "94 g",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 02",
+    ""
+  ],
+  [
+    "Sardine",
+    "80 g",
+    "Norwegian Sea",
+    "RealShrimp 6.5 - 01",
+    ""
+  ],
+  [
+    "Sardine",
+    "69 g",
+    "Norwegian Sea",
+    "RealShrimp 6.5 - 01",
+    ""
+  ],
+  [
+    "Sardine",
+    "69 g",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 02",
+    ""
+  ],
+  [
+    "Sardine",
+    "64 g",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 01",
+    ""
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "3.330 kg",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "3.179 kg",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "2.609 kg",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "1.872 kg",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "1.588 kg",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Shorthorn sculpin",
+    "2.408 kg",
+    "Norwegian Sea",
+    "Maggot 4-006",
+    ""
+  ],
+  [
+    "Shorthorn sculpin",
+    "1.782 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "Shorthorn sculpin",
+    "1.674 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "Shorthorn sculpin",
+    "1.375 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "Shorthorn sculpin",
+    "1.357 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 001",
+    ""
+  ],
+  [
+    "Siberian Char Loach",
+    "26 g",
+    "Yama River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Smelt",
+    "56 g",
+    "Ladoga archipelago",
+    "Stinky Stick 2.5-001",
+    ""
+  ],
+  [
+    "Smelt",
+    "45 g",
+    "Ladoga archipelago",
+    "Stinky Stick 2.5-001",
+    ""
+  ],
+  [
+    "Smelt",
+    "40 g",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Sockeye Salmon",
+    "1.416 kg",
+    "Yama River",
+    "Soturi 22g-003",
+    ""
+  ],
+  [
+    "Sockeye Salmon",
+    "1.008 kg",
+    "Yama River",
+    "Spinnerbait #1 004",
+    ""
+  ],
+  [
+    "Sockeye Salmon",
+    "832 g",
+    "Yama River",
+    "Spinnerbait #1 004",
+    ""
+  ],
+  [
+    "Sockeye Salmon",
+    "794 g",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Sockeye Salmon",
+    "638 g",
+    "Yama River",
+    "Spinnerbait #1 004",
+    ""
+  ],
+  [
+    "Spiny dogfish",
+    "650 g",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "Stellate Sturgeon",
+    "13.068 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Sterlet",
+    "5.517 kg",
+    "Akhtuba River",
+    "Crawfish Pellets 14",
+    "Crab & Fish Pellets 14"
+  ],
+  [
+    "Sterlet",
+    "3.456 kg",
+    "Akhtuba River",
+    "Crawfish Pellets 14",
+    "Crab & Fish Pellets 14"
+  ],
+  [
+    "Sterlet",
+    "1.633 kg",
+    "Akhtuba River",
+    "Crawfish Pellets 14",
+    "Crab & Fish Pellets 14"
+  ],
+  [
+    "Taimen",
+    "259 g",
+    "Belaya River",
+    "Squirrel 45",
+    ""
+  ],
+  [
+    "Tench",
+    "3.215 kg",
+    "Bear Lake",
+    "Fresh Raspberry Pop-Up 16",
+    "Raspberry Flavor Purple"
+  ],
+  [
+    "Tench",
+    "1.379 kg",
+    "Bear Lake",
+    "Fresh Raspberry Pop-Up 16",
+    "Raspberry Flavor Purple"
+  ],
+  [
+    "Tench",
+    "1.188 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Tench",
+    "469 g",
+    "Mosquito Lake",
+    "Maggot",
+    ""
+  ],
+  [
+    "Tench",
+    "394 g",
+    "Old Burg Lake",
+    "Honey dough",
+    ""
+  ],
+  [
+    "Turbot",
+    "5.065 kg",
+    "Norwegian Sea",
+    "Lynns Minnow 80-006",
+    ""
+  ],
+  [
+    "Turbot",
+    "2.076 kg",
+    "Norwegian Sea",
+    "Lurker 100-07",
+    ""
+  ],
+  [
+    "Ugui",
+    "524 g",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Ugui",
+    "521 g",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Ugui",
+    "469 g",
+    "Yama River",
+    "Spinnerbait #1 004",
+    ""
+  ],
+  [
+    "Ugui",
+    "401 g",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Ugui",
+    "374 g",
+    "Yama River",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Vimba",
+    "229 g",
+    "Volkhov River",
+    "A bunch of algae",
+    ""
+  ],
+  [
+    "Viviparous eelpout",
+    "481 g",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "Viviparous eelpout",
+    "248 g",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 01",
+    ""
+  ],
+  [
+    "Viviparous eelpout",
+    "211 g",
+    "Norwegian Sea",
+    "Lurker 100-03",
+    ""
+  ],
+  [
+    "Viviparous eelpout",
+    "192 g",
+    "Norwegian Sea",
+    "Foam-rubber fish 002",
+    ""
+  ],
+  [
+    "Viviparous eelpout",
+    "189 g",
+    "Norwegian Sea",
+    "Natural Shrimp 7.5 - 02",
+    ""
+  ],
+  [
+    "Volga Zander",
+    "383 g",
+    "Winding Rivulet",
+    "Dragonfly bell 2 002",
+    ""
+  ],
+  [
+    "White Bream",
+    "319 g",
+    "Volkhov River",
+    "A bunch of algae",
+    ""
+  ],
+  [
+    "White Bream",
+    "268 g",
+    "Old Burg Lake",
+    "Pearl barley",
+    ""
+  ],
+  [
+    "White Bream",
+    "201 g",
+    "Mosquito Lake",
+    "Maggot",
+    ""
+  ],
+  [
+    "White Bream",
+    "185 g",
+    "Old Burg Lake",
+    "Pearl barley",
+    ""
+  ],
+  [
+    "White Bream",
+    "185 g",
+    "Volkhov River",
+    "A bunch of algae",
+    ""
+  ],
+  [
+    "White-eye Bream",
+    "150 g",
+    "Belaya River",
+    "Pearl barley",
+    ""
+  ],
+  [
+    "White-eye Bream",
+    "114 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Whitespotted Char",
+    "4.855 kg",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Whitespotted Char",
+    "3.038 kg",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Whitespotted Char",
+    "2.256 kg",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Whitespotted Char",
+    "1.523 kg",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Whitespotted Char",
+    "1.366 kg",
+    "Yama River",
+    "Mayfly larva",
+    "Grasshopper"
+  ],
+  [
+    "Whiting",
+    "1.167 kg",
+    "Norwegian Sea",
+    "Foam-rubber fish 001",
+    ""
+  ],
+  [
+    "Whiting",
+    "916 g",
+    "Norwegian Sea",
+    "Lurker 100-07",
+    ""
+  ],
+  [
+    "Whiting",
+    "675 g",
+    "Norwegian Sea",
+    "Foam-rubber fish 004",
+    ""
+  ],
+  [
+    "Whiting",
+    "573 g",
+    "Norwegian Sea",
+    "Lurker 100-07",
+    ""
+  ],
+  [
+    "Whiting",
+    "395 g",
+    "Norwegian Sea",
+    "Lurker 100-07",
+    ""
+  ],
+  [
+    "Wild Carp",
+    "2.624 kg",
+    "Akhtuba River",
+    "Crawfish Pellets 14",
+    "Crab & Fish Pellets 14"
+  ],
+  [
+    "Wild Carp",
+    "2.544 kg",
+    "Akhtuba River",
+    "Crawfish Pellets 14",
+    "Crab & Fish Pellets 14"
+  ],
+  [
+    "Zander",
+    "3.979 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Zander",
+    "2.624 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Zander",
+    "2.263 kg",
+    "Akhtuba River",
+    "Bleak",
+    ""
+  ],
+  [
+    "Zander",
+    "1.795 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Zander",
+    "1.756 kg",
+    "Ladoga archipelago",
+    "Balsa Minnow 110F-002",
+    ""
+  ],
+  [
+    "Zebra Mussel",
+    "30 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Zebra Mussel",
+    "25 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ]
+]

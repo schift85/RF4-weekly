@@ -1,0 +1,940 @@
+[
+  [
+    "Black-spined Herring",
+    "57 g",
+    "Akhtuba River",
+    "Freshwater Gammarus",
+    "Diving beetle"
+  ],
+  [
+    "Bleak",
+    "144 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Bleak",
+    "102 g",
+    "Belaya River",
+    "Fly",
+    ""
+  ],
+  [
+    "Bleak",
+    "94 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Bleak",
+    "91 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Bleak",
+    "69 g",
+    "Belaya River",
+    "Fly",
+    ""
+  ],
+  [
+    "Bream",
+    "2.747 kg",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Bream",
+    "2.199 kg",
+    "Mosquito Lake",
+    "Garlic dough",
+    "Cottage cheese dough"
+  ],
+  [
+    "Bream",
+    "2.098 kg",
+    "Mosquito Lake",
+    "Corn seeds",
+    "Cottage cheese dough"
+  ],
+  [
+    "Bream",
+    "1.824 kg",
+    "Mosquito Lake",
+    "Honey dough",
+    ""
+  ],
+  [
+    "Bream",
+    "1.164 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    "Cottage cheese dough"
+  ],
+  [
+    "Brown Trout",
+    "641 g",
+    "Belaya River",
+    "Horse-fly",
+    "Dung beetle"
+  ],
+  [
+    "Brown Trout",
+    "509 g",
+    "Belaya River",
+    "Mayfly",
+    "Fly"
+  ],
+  [
+    "Brown Trout",
+    "221 g",
+    "Belaya River",
+    "Dung beetle",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "199 g",
+    "Belaya River",
+    "Dung beetle",
+    "Fly"
+  ],
+  [
+    "Brown Trout",
+    "132 g",
+    "Belaya River",
+    "Mayfly",
+    "Fly"
+  ],
+  [
+    "Chinese Sleeper",
+    "365 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "361 g",
+    "Old Burg Lake",
+    "Maggot",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "310 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "259 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "244 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Chub",
+    "1.705 kg",
+    "Winding Rivulet",
+    "Caster",
+    "Worm"
+  ],
+  [
+    "Chub",
+    "973 g",
+    "Mosquito Lake",
+    "Corn seeds",
+    "Cottage cheese dough"
+  ],
+  [
+    "Chub",
+    "826 g",
+    "Mosquito Lake",
+    "Pea porridge",
+    "Cottage cheese dough"
+  ],
+  [
+    "Chub",
+    "750 g",
+    "Winding Rivulet",
+    "Caster",
+    "Caddisfly"
+  ],
+  [
+    "Chub",
+    "714 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Common Carp",
+    "10.660 kg",
+    "Old Burg Lake",
+    "Diced potatoes",
+    ""
+  ],
+  [
+    "Common Carp",
+    "1.768 kg",
+    "Old Burg Lake",
+    "Diced potatoes",
+    ""
+  ],
+  [
+    "Common Carp",
+    "1.059 kg",
+    "Old Burg Lake",
+    "Diced potatoes",
+    ""
+  ],
+  [
+    "Common Carp",
+    "988 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Common Carp",
+    "927 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Common Roach",
+    "1.349 kg",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Common Roach",
+    "1.016 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Common Roach",
+    "672 g",
+    "Old Burg Lake",
+    "Maggot",
+    ""
+  ],
+  [
+    "Common Roach",
+    "660 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Common Roach",
+    "636 g",
+    "Mosquito Lake",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "1.720 kg",
+    "Mosquito Lake",
+    "Semolina",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "1.337 kg",
+    "Old Burg Lake",
+    "Maggot",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "1.201 kg",
+    "Old Burg Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "1.181 kg",
+    "Mosquito Lake",
+    "Wet Bread",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "1.053 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Dace",
+    "232 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Dace",
+    "126 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Dace",
+    "112 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Dace",
+    "101 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Dace",
+    "93 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "East Siberian Grayling",
+    "611 g",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "East Siberian Grayling",
+    "540 g",
+    "Yama River",
+    "Stonefly larva",
+    ""
+  ],
+  [
+    "East Siberian Grayling",
+    "444 g",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Frog",
+    "129 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Frog",
+    "83 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Frog",
+    "76 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Frog",
+    "62 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Frog",
+    "49 g",
+    "Mosquito Lake",
+    "Fly",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "1.811 kg",
+    "Winding Rivulet",
+    "Honey dough",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "1.201 kg",
+    "Mosquito Lake",
+    "Semolina",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "1.168 kg",
+    "Mosquito Lake",
+    "Wet Bread",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "1.156 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "997 g",
+    "Winding Rivulet",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Grass Carp",
+    "6.040 kg",
+    "Old Burg Lake",
+    "Diced potatoes",
+    ""
+  ],
+  [
+    "Grass Carp",
+    "541 g",
+    "Old Burg Lake",
+    "Diced potatoes",
+    ""
+  ],
+  [
+    "Grayling",
+    "2.738 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Grayling",
+    "1.728 kg",
+    "Belaya River",
+    "Dung beetle",
+    "Fly"
+  ],
+  [
+    "Grayling",
+    "913 g",
+    "Belaya River",
+    "Mayfly",
+    "Fly"
+  ],
+  [
+    "Grayling",
+    "531 g",
+    "Belaya River",
+    "Dung beetle",
+    "Fly"
+  ],
+  [
+    "Grayling",
+    "437 g",
+    "Belaya River",
+    "Mayfly",
+    "Fly"
+  ],
+  [
+    "Gudgeon",
+    "98 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "93 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "85 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "85 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "66 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Ide",
+    "1.968 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Ide",
+    "1.812 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    "Cottage cheese dough"
+  ],
+  [
+    "Ide",
+    "1.374 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Ide",
+    "1.264 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Ide",
+    "1.177 kg",
+    "Winding Rivulet",
+    "Caster",
+    "Maggot"
+  ],
+  [
+    "Kuori Whitefish",
+    "854 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Kuori Whitefish",
+    "534 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Kuori Whitefish",
+    "402 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Lake Trout",
+    "2.024 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Lake Trout",
+    "1.296 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Lake Trout",
+    "1.212 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Lake Trout",
+    "1.059 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Lake Trout",
+    "941 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Mayfly"
+  ],
+  [
+    "Masu sedentary",
+    "336 g",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Mirror Carp",
+    "2.293 kg",
+    "Bear Lake",
+    "Honey dough",
+    ""
+  ],
+  [
+    "Nase",
+    "173 g",
+    "Winding Rivulet",
+    "Caster",
+    "Caddisfly"
+  ],
+  [
+    "Nase",
+    "68 g",
+    "Winding Rivulet",
+    "Caster",
+    "Worm"
+  ],
+  [
+    "Peled",
+    "1.185 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Peled",
+    "767 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Peled",
+    "704 g",
+    "Kuori Lake",
+    "Diving beetle",
+    "Stonefly larva"
+  ],
+  [
+    "Peled",
+    "632 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Peled",
+    "511 g",
+    "Kuori Lake",
+    "Diving beetle",
+    "Stonefly larva"
+  ],
+  [
+    "Perch",
+    "799 g",
+    "Mosquito Lake",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Perch",
+    "709 g",
+    "Mosquito Lake",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Perch",
+    "672 g",
+    "Mosquito Lake",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Perch",
+    "641 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Perch",
+    "615 g",
+    "Mosquito Lake",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Pumpkinseed Sunfish",
+    "101 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Pumpkinseed Sunfish",
+    "100 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Pumpkinseed Sunfish",
+    "90 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Pumpkinseed Sunfish",
+    "71 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Pumpkinseed Sunfish",
+    "70 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Rudd",
+    "328 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Ruffe",
+    "105 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Ruffe",
+    "92 g",
+    "Belaya River",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Ruffe",
+    "88 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Ruffe",
+    "70 g",
+    "Old Burg Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Ruffe",
+    "69 g",
+    "Belaya River",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "860 g",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "632 g",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "502 g",
+    "Yama River",
+    "Grasshopper",
+    "Cockchafer"
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "272 g",
+    "Yama River",
+    "Grasshopper",
+    "Dung beetle"
+  ],
+  [
+    "Sichel",
+    "393 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Sichel",
+    "360 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Sichel",
+    "171 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Sichel",
+    "140 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Taran",
+    "240 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Taran",
+    "154 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Maggot"
+  ],
+  [
+    "Tench",
+    "1.172 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    "Cottage cheese dough"
+  ],
+  [
+    "Tench",
+    "1.031 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Tench",
+    "964 g",
+    "Old Burg Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Tench",
+    "777 g",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    "Honey dough"
+  ],
+  [
+    "Tench",
+    "634 g",
+    "Mosquito Lake",
+    "Honey dough",
+    "Cottage cheese dough"
+  ],
+  [
+    "Vendace",
+    "342 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Mayfly"
+  ],
+  [
+    "Vendace",
+    "303 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Vendace",
+    "255 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Vendace",
+    "255 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Vendace",
+    "245 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "White Bream",
+    "674 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "White Bream",
+    "458 g",
+    "Old Burg Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "White Bream",
+    "426 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "White Bream",
+    "426 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "White Bream",
+    "368 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ]
+]

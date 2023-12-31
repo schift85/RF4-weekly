@@ -1,0 +1,828 @@
+[
+  [
+    "Arctic Char",
+    "1.786 kg",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Arctic Char",
+    "1.401 kg",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Arctic Char",
+    "1.364 kg",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Arctic Char",
+    "734 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Arctic Char",
+    "472 g",
+    "Lower Tunguska River",
+    "Dragonfly long 1 001",
+    ""
+  ],
+  [
+    "Arctic Grayling",
+    "1.155 kg",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Arctic Grayling",
+    "764 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Arctic Grayling",
+    "699 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Arctic Grayling",
+    "428 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Arctic Grayling",
+    "419 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Asp",
+    "476 g",
+    "Winding Rivulet",
+    "Maggot 4-005",
+    ""
+  ],
+  [
+    "Asp",
+    "283 g",
+    "Belaya River",
+    "Orig Popper 4-F006",
+    ""
+  ],
+  [
+    "Beloribitsa Whitefish",
+    "1.281 kg",
+    "Akhtuba River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Bleak",
+    "63 g",
+    "Winding Rivulet",
+    "Fly",
+    "Fly"
+  ],
+  [
+    "Bleak",
+    "57 g",
+    "Winding Rivulet",
+    "Fly",
+    "Fly"
+  ],
+  [
+    "Bleak",
+    "51 g",
+    "Winding Rivulet",
+    "Pearl barley",
+    ""
+  ],
+  [
+    "Bleak",
+    "49 g",
+    "Winding Rivulet",
+    "Caster",
+    "Worm"
+  ],
+  [
+    "Bleak",
+    "41 g",
+    "Winding Rivulet",
+    "Fly",
+    "Fly"
+  ],
+  [
+    "Bream",
+    "1.049 kg",
+    "Belaya River",
+    "Redworm",
+    "Worm"
+  ],
+  [
+    "Bream",
+    "893 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Bream",
+    "870 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Bream",
+    "732 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Bream",
+    "722 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "1.736 kg",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "1.473 kg",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "1.190 kg",
+    "Belaya River",
+    "Orig Popper 4-F006",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "731 g",
+    "Belaya River",
+    "Snowflake #1 04",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "639 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Chub",
+    "1.705 kg",
+    "Winding Rivulet",
+    "Caster",
+    "Worm"
+  ],
+  [
+    "Chub",
+    "750 g",
+    "Winding Rivulet",
+    "Caster",
+    "Caddisfly"
+  ],
+  [
+    "Chub",
+    "633 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Chub",
+    "542 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Chub",
+    "428 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Chum Salmon",
+    "2.302 kg",
+    "Yama River",
+    "Hornet #1 004",
+    ""
+  ],
+  [
+    "Chum Salmon",
+    "1.412 kg",
+    "Yama River",
+    "Hornet #1 004",
+    ""
+  ],
+  [
+    "Chum Salmon",
+    "1.148 kg",
+    "Yama River",
+    "Hornet #1 004",
+    ""
+  ],
+  [
+    "Chum Salmon",
+    "923 g",
+    "Yama River",
+    "Hornet #1 004",
+    ""
+  ],
+  [
+    "Chum Salmon",
+    "913 g",
+    "Yama River",
+    "Hornet #1 004",
+    ""
+  ],
+  [
+    "Common Roach",
+    "1.349 kg",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Common Roach",
+    "463 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Common Roach",
+    "180 g",
+    "Mosquito Lake",
+    "Fly",
+    ""
+  ],
+  [
+    "Common Roach",
+    "146 g",
+    "Mosquito Lake",
+    "Fly",
+    ""
+  ],
+  [
+    "Common Roach",
+    "101 g",
+    "Mosquito Lake",
+    "Fly",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "690 g",
+    "Belaya River",
+    "Redworm",
+    "Worm"
+  ],
+  [
+    "Dace",
+    "232 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Dace",
+    "126 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Dace",
+    "112 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Dace",
+    "93 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Dace",
+    "89 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "East Siberian Grayling",
+    "806 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "East Siberian Grayling",
+    "592 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "East Siberian Grayling",
+    "542 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "East Siberian Grayling",
+    "519 g",
+    "Yama River",
+    "Hornet #1 004",
+    ""
+  ],
+  [
+    "East Siberian Grayling",
+    "351 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Frog",
+    "49 g",
+    "Mosquito Lake",
+    "Fly",
+    ""
+  ],
+  [
+    "Frog",
+    "44 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Frog",
+    "36 g",
+    "Mosquito Lake",
+    "Fly",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "435 g",
+    "Belaya River",
+    "Worm",
+    ""
+  ],
+  [
+    "Grayling",
+    "1.097 kg",
+    "Belaya River",
+    "Orig Popper 4-F006",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "98 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "85 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "85 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "66 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "56 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Humpback Whitefish",
+    "1.471 kg",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Humpback Whitefish",
+    "634 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Humpback Whitefish",
+    "378 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Humpback Whitefish",
+    "185 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Ide",
+    "1.177 kg",
+    "Winding Rivulet",
+    "Caster",
+    "Maggot"
+  ],
+  [
+    "Ide",
+    "671 g",
+    "Winding Rivulet",
+    "Caster",
+    "Maggot"
+  ],
+  [
+    "Ide",
+    "640 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Ide",
+    "547 g",
+    "Winding Rivulet",
+    "Caster",
+    "Maggot"
+  ],
+  [
+    "Ide",
+    "507 g",
+    "Winding Rivulet",
+    "Caster",
+    "Worm"
+  ],
+  [
+    "Kamchatkan Rainbow Trout",
+    "479 g",
+    "Yama River",
+    "Hornet #1 005",
+    ""
+  ],
+  [
+    "Lake Minnow",
+    "33 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Lake Minnow",
+    "24 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Masu sedentary",
+    "408 g",
+    "Yama River",
+    "Hornet #1 004",
+    ""
+  ],
+  [
+    "Muksun",
+    "222 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Muksun",
+    "142 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Muksun",
+    "114 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Nase",
+    "173 g",
+    "Winding Rivulet",
+    "Caster",
+    "Caddisfly"
+  ],
+  [
+    "Nase",
+    "68 g",
+    "Winding Rivulet",
+    "Caster",
+    "Worm"
+  ],
+  [
+    "Peled",
+    "108 g",
+    "Lower Tunguska River",
+    "Hornet #1 005",
+    ""
+  ],
+  [
+    "Perch",
+    "1.037 kg",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Perch",
+    "1.008 kg",
+    "Winding Rivulet",
+    "Maggot 4-005",
+    ""
+  ],
+  [
+    "Perch",
+    "611 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Perch",
+    "527 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Perch",
+    "513 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Pike",
+    "2.772 kg",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Pike",
+    "517 g",
+    "Winding Rivulet",
+    "Maggot 4-007",
+    ""
+  ],
+  [
+    "Pink Salmon",
+    "648 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Pink Salmon",
+    "630 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Pink Salmon",
+    "524 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Pink Salmon",
+    "450 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Pink Salmon",
+    "386 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Ruffe",
+    "30 g",
+    "Belaya River",
+    "Redworm",
+    "Worm"
+  ],
+  [
+    "Ruffe",
+    "26 g",
+    "Belaya River",
+    "Worm",
+    ""
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "625 g",
+    "Yama River",
+    "Orig Popper 4-F006",
+    ""
+  ],
+  [
+    "Siberian Sardine Cisco",
+    "353 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Siberian Sardine Cisco",
+    "162 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Siberian Sardine Cisco",
+    "115 g",
+    "Lower Tunguska River",
+    "Hornet #1 005",
+    ""
+  ],
+  [
+    "Siberian Sardine Cisco",
+    "110 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Siberian Sardine Cisco",
+    "83 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Sichel",
+    "414 g",
+    "Akhtuba River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Sockeye Salmon",
+    "968 g",
+    "Yama River",
+    "Spinnerbait #1 004",
+    ""
+  ],
+  [
+    "Sockeye Salmon",
+    "953 g",
+    "Yama River",
+    "Hornet #1 005",
+    ""
+  ],
+  [
+    "Taimen",
+    "1.894 kg",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Tugun",
+    "24 g",
+    "Lower Tunguska River",
+    "Spiker #2 018",
+    ""
+  ],
+  [
+    "Ugui",
+    "454 g",
+    "Yama River",
+    "Hornet #1 001",
+    ""
+  ],
+  [
+    "Vendace",
+    "57 g",
+    "Kuori Lake",
+    "Furry T06",
+    ""
+  ],
+  [
+    "Volga Zander",
+    "373 g",
+    "Winding Rivulet",
+    "Maggot 4-005",
+    ""
+  ],
+  [
+    "White Bream",
+    "426 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "White Bream",
+    "426 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "White Bream",
+    "301 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "White Bream",
+    "297 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "White Bream",
+    "287 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Zander",
+    "191 g",
+    "Winding Rivulet",
+    "Maggot 4-005",
+    ""
+  ],
+  [
+    "Zebra Mussel",
+    "94 g",
+    "Akhtuba River",
+    "Type 5 3g 006",
+    ""
+  ]
+]

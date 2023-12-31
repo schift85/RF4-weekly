@@ -1,0 +1,2725 @@
+[
+  [
+    "Arctic Char",
+    "3.446 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Arctic Char",
+    "3.135 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Caddisfly"
+  ],
+  [
+    "Arctic Char",
+    "3.067 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Arctic Char",
+    "2.110 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Arctic Char",
+    "1.982 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Arctic Grayling",
+    "1.182 kg",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Arctic Grayling",
+    "723 g",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Arctic Grayling",
+    "463 g",
+    "Lower Tunguska River",
+    "Fly",
+    "Caddisfly"
+  ],
+  [
+    "Arctic Grayling",
+    "440 g",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Arctic Grayling",
+    "385 g",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Arctic Omul",
+    "2.116 kg",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Arctic Omul",
+    "1.282 kg",
+    "Lower Tunguska River",
+    "Caddisfly",
+    "Stonefly larva"
+  ],
+  [
+    "Arctic Omul",
+    "1.044 kg",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Arctic Omul",
+    "874 g",
+    "Lower Tunguska River",
+    "Redworm",
+    "Mayfly larva"
+  ],
+  [
+    "Arctic Omul",
+    "825 g",
+    "Lower Tunguska River",
+    "Redworm",
+    "Mayfly larva"
+  ],
+  [
+    "Asian Smelt",
+    "169 g",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Asian Smelt",
+    "169 g",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Asian Smelt",
+    "168 g",
+    "Lower Tunguska River",
+    "Fly",
+    "Caddisfly"
+  ],
+  [
+    "Asian Smelt",
+    "156 g",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Asian Smelt",
+    "153 g",
+    "Lower Tunguska River",
+    "Fly",
+    ""
+  ],
+  [
+    "Asp",
+    "1.486 kg",
+    "Winding Rivulet",
+    "Cricket",
+    ""
+  ],
+  [
+    "Asp",
+    "1.351 kg",
+    "Winding Rivulet",
+    "Horse-fly",
+    "Bloodworm"
+  ],
+  [
+    "Asp",
+    "1.340 kg",
+    "Winding Rivulet",
+    "Cricket",
+    ""
+  ],
+  [
+    "Asp",
+    "1.296 kg",
+    "Winding Rivulet",
+    "Grasshopper",
+    ""
+  ],
+  [
+    "Asp",
+    "1.254 kg",
+    "Winding Rivulet",
+    "Redworm",
+    "Horse-fly"
+  ],
+  [
+    "Bighead Carp",
+    "6.813 kg",
+    "Sura River",
+    "Wheat seeds",
+    "A bunch of algae"
+  ],
+  [
+    "Bighead Carp",
+    "5.560 kg",
+    "Sura River",
+    "A bunch of algae",
+    "Wheat seeds"
+  ],
+  [
+    "Bighead Carp",
+    "5.332 kg",
+    "Sura River",
+    "Wheat seeds",
+    "A bunch of algae"
+  ],
+  [
+    "Bighead Carp",
+    "4.055 kg",
+    "Sura River",
+    "Wheat seeds",
+    "A bunch of algae"
+  ],
+  [
+    "Bighead Carp",
+    "3.778 kg",
+    "Sura River",
+    "A bunch of algae",
+    "Wheat seeds"
+  ],
+  [
+    "Black Carp",
+    "8.458 kg",
+    "Old Burg Lake",
+    "Diced potatoes",
+    "Cabbage leaf"
+  ],
+  [
+    "Black Carp",
+    "7.043 kg",
+    "Old Burg Lake",
+    "Diced potatoes",
+    "Cabbage leaf"
+  ],
+  [
+    "Black Carp",
+    "1.224 kg",
+    "Bear Lake",
+    "Cabbage leaf",
+    ""
+  ],
+  [
+    "Black Sea Shemaya",
+    "407 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Mayfly"
+  ],
+  [
+    "Black Sea Shemaya",
+    "243 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Mayfly"
+  ],
+  [
+    "Black Sea Shemaya",
+    "165 g",
+    "Seversky Donets River",
+    "Bark beetle larva",
+    "Mayfly larva"
+  ],
+  [
+    "Black Sea Shemaya",
+    "111 g",
+    "Seversky Donets River",
+    "Mayfly",
+    "Bark beetle larva"
+  ],
+  [
+    "Black Sea Shemaya",
+    "106 g",
+    "Seversky Donets River",
+    "Mayfly",
+    ""
+  ],
+  [
+    "Black-spined Herring",
+    "38 g",
+    "Akhtuba River",
+    "Mayfly",
+    "Mayfly"
+  ],
+  [
+    "Bleak",
+    "155 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Bleak",
+    "149 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Bleak",
+    "138 g",
+    "Mosquito Lake",
+    "Caster",
+    ""
+  ],
+  [
+    "Bleak",
+    "138 g",
+    "Mosquito Lake",
+    "Fly",
+    ""
+  ],
+  [
+    "Bleak",
+    "137 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Blue Bream",
+    "385 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    "Bark beetle larva"
+  ],
+  [
+    "Blue Bream",
+    "355 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Blue Bream",
+    "261 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Blue Bream",
+    "198 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Blue Bream",
+    "185 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Blunt-snouted lenok",
+    "1.088 kg",
+    "Yama River",
+    "Diving beetle",
+    "Freshwater Gammarus"
+  ],
+  [
+    "Bream",
+    "5.920 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Bream",
+    "4.782 kg",
+    "Mosquito Lake",
+    "Garlic dough",
+    ""
+  ],
+  [
+    "Bream",
+    "4.703 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Bream",
+    "4.077 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Bream",
+    "4.053 kg",
+    "Winding Rivulet",
+    "Caddisfly",
+    "Bark beetle larva"
+  ],
+  [
+    "Broad Whitefish",
+    "3.057 kg",
+    "Lower Tunguska River",
+    "Mayfly larva",
+    "Caddisfly"
+  ],
+  [
+    "Broad Whitefish",
+    "2.837 kg",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Broad Whitefish",
+    "1.875 kg",
+    "Lower Tunguska River",
+    "Worm",
+    "Redworm"
+  ],
+  [
+    "Broad Whitefish",
+    "1.817 kg",
+    "Lower Tunguska River",
+    "Worm",
+    "A bunch of algae"
+  ],
+  [
+    "Broad Whitefish",
+    "1.673 kg",
+    "Lower Tunguska River",
+    "Nightcrawler",
+    "Horse-fly"
+  ],
+  [
+    "Brown Trout",
+    "2.046 kg",
+    "Belaya River",
+    "Mayfly",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "1.516 kg",
+    "Belaya River",
+    "Warble fly",
+    "Mayfly"
+  ],
+  [
+    "Brown Trout",
+    "939 g",
+    "Belaya River",
+    "Fly",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "924 g",
+    "Belaya River",
+    "Mayfly",
+    ""
+  ],
+  [
+    "Brown Trout",
+    "877 g",
+    "Belaya River",
+    "Fly",
+    ""
+  ],
+  [
+    "Buffalo",
+    "146 g",
+    "Akhtuba River",
+    "Stonefly larva",
+    "Mayfly larva"
+  ],
+  [
+    "Burbot",
+    "2.837 kg",
+    "Winding Rivulet",
+    "Diced cheese",
+    "Nightcrawler"
+  ],
+  [
+    "Burbot",
+    "2.353 kg",
+    "Akhtuba River",
+    "Mole cricket",
+    "Pieces of fish"
+  ],
+  [
+    "Burbot",
+    "1.948 kg",
+    "Winding Rivulet",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Burbot",
+    "1.539 kg",
+    "Winding Rivulet",
+    "Redworm",
+    "Caddisfly"
+  ],
+  [
+    "Burbot",
+    "1.078 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Caspian Roach",
+    "183 g",
+    "Akhtuba River",
+    "Mayfly",
+    "Bark beetle larva"
+  ],
+  [
+    "Caspian Roach",
+    "181 g",
+    "Akhtuba River",
+    "Mayfly",
+    "Mayfly larva"
+  ],
+  [
+    "Chinese Sleeper",
+    "552 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "435 g",
+    "Mosquito Lake",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "434 g",
+    "Old Burg Lake",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "420 g",
+    "Old Burg Lake",
+    "Pieces of fish",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "404 g",
+    "Mosquito Lake",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Chub",
+    "4.147 kg",
+    "Winding Rivulet",
+    "Dung beetle",
+    ""
+  ],
+  [
+    "Chub",
+    "3.663 kg",
+    "Winding Rivulet",
+    "Dung beetle",
+    ""
+  ],
+  [
+    "Chub",
+    "3.188 kg",
+    "Winding Rivulet",
+    "Dung beetle",
+    ""
+  ],
+  [
+    "Chub",
+    "3.158 kg",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Chub",
+    "3.023 kg",
+    "Seversky Donets River",
+    "Caster",
+    ""
+  ],
+  [
+    "Chum Salmon",
+    "1.975 kg",
+    "Yama River",
+    "Diving beetle",
+    "Grasshopper"
+  ],
+  [
+    "Chum Salmon",
+    "1.470 kg",
+    "Yama River",
+    "Mayfly",
+    "Mayfly larva"
+  ],
+  [
+    "Clupeonella",
+    "19 g",
+    "Seversky Donets River",
+    "Caster",
+    "Bloodworm"
+  ],
+  [
+    "Clupeonella",
+    "17 g",
+    "Seversky Donets River",
+    "Caster",
+    "Bloodworm"
+  ],
+  [
+    "Clupeonella",
+    "17 g",
+    "Seversky Donets River",
+    "Caster",
+    "Bloodworm"
+  ],
+  [
+    "Clupeonella",
+    "17 g",
+    "Seversky Donets River",
+    "Caster",
+    "Bloodworm"
+  ],
+  [
+    "Clupeonella",
+    "16 g",
+    "Seversky Donets River",
+    "Caster",
+    "Bloodworm"
+  ],
+  [
+    "Coho Salmon",
+    "561 g",
+    "Yama River",
+    "Diving beetle",
+    "Grasshopper"
+  ],
+  [
+    "Common Barbel",
+    "1.040 kg",
+    "Bear Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Common Barbel",
+    "684 g",
+    "Bear Lake",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Common Barbel",
+    "639 g",
+    "Bear Lake",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Common Carp",
+    "6.072 kg",
+    "Old Burg Lake",
+    "A bunch of algae",
+    "Diced potatoes"
+  ],
+  [
+    "Common Carp",
+    "5.839 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Common Carp",
+    "5.120 kg",
+    "Bear Lake",
+    "Diced potatoes",
+    ""
+  ],
+  [
+    "Common Carp",
+    "4.958 kg",
+    "Old Burg Lake",
+    "A bunch of algae",
+    "Diced potatoes"
+  ],
+  [
+    "Common Carp",
+    "4.580 kg",
+    "Old Burg Lake",
+    "A bunch of algae",
+    "A bunch of algae"
+  ],
+  [
+    "Common Minnow",
+    "79 g",
+    "Kuori Lake",
+    "Mayfly",
+    ""
+  ],
+  [
+    "Common Minnow",
+    "54 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Common Minnow",
+    "52 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Caddisfly"
+  ],
+  [
+    "Common Minnow",
+    "39 g",
+    "Ladoga Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Common Minnow",
+    "37 g",
+    "Kuori Lake",
+    "Mayfly",
+    ""
+  ],
+  [
+    "Common Roach",
+    "1.770 kg",
+    "Old Burg Lake",
+    "Bark beetle larva",
+    ""
+  ],
+  [
+    "Common Roach",
+    "1.527 kg",
+    "Mosquito Lake",
+    "Mayfly",
+    "Stonefly larva"
+  ],
+  [
+    "Common Roach",
+    "1.460 kg",
+    "Mosquito Lake",
+    "Diced cheese",
+    ""
+  ],
+  [
+    "Common Roach",
+    "1.429 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Common Roach",
+    "1.427 kg",
+    "Mosquito Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "2.522 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "2.329 kg",
+    "Mosquito Lake",
+    "Corn seeds",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "2.299 kg",
+    "Mosquito Lake",
+    "Semolina",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "2.237 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "2.170 kg",
+    "Mosquito Lake",
+    "Semolina",
+    ""
+  ],
+  [
+    "Dace",
+    "321 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Dace",
+    "319 g",
+    "Winding Rivulet",
+    "Bark beetle larva",
+    "Redworm"
+  ],
+  [
+    "Dace",
+    "282 g",
+    "Seversky Donets River",
+    "Mayfly",
+    "Bark beetle larva"
+  ],
+  [
+    "Dace",
+    "278 g",
+    "Winding Rivulet",
+    "Caster",
+    "Caster"
+  ],
+  [
+    "Dace",
+    "266 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Dolly Varden Trout",
+    "2.791 kg",
+    "Yama River",
+    "Diving beetle",
+    "Grasshopper"
+  ],
+  [
+    "Dolly Varden Trout",
+    "973 g",
+    "Yama River",
+    "Diving beetle",
+    "Grasshopper"
+  ],
+  [
+    "Dolly Varden Trout",
+    "876 g",
+    "Yama River",
+    "Dung beetle",
+    ""
+  ],
+  [
+    "Dolly Varden Trout",
+    "858 g",
+    "Yama River",
+    "Diving beetle",
+    "Grasshopper"
+  ],
+  [
+    "Dolly Varden Trout",
+    "582 g",
+    "Yama River",
+    "Diving beetle",
+    "Freshwater Gammarus"
+  ],
+  [
+    "Donets Ruffe",
+    "178 g",
+    "Winding Rivulet",
+    "Bark beetle larva",
+    ""
+  ],
+  [
+    "Donets Ruffe",
+    "157 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Donets Ruffe",
+    "151 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Donets Ruffe",
+    "149 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    "Redworm"
+  ],
+  [
+    "Donets Ruffe",
+    "148 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "East Siberian Grayling",
+    "1.022 kg",
+    "Yama River",
+    "Grasshopper",
+    "Mayfly larva"
+  ],
+  [
+    "East Siberian Grayling",
+    "840 g",
+    "Yama River",
+    "Dung beetle",
+    "Grasshopper"
+  ],
+  [
+    "East Siberian Grayling",
+    "778 g",
+    "Lower Tunguska River",
+    "Mayfly",
+    ""
+  ],
+  [
+    "East Siberian Grayling",
+    "647 g",
+    "Lower Tunguska River",
+    "Fly",
+    "Caddisfly"
+  ],
+  [
+    "East Siberian Grayling",
+    "611 g",
+    "Yama River",
+    "Dung beetle",
+    "Grasshopper"
+  ],
+  [
+    "Eel",
+    "4.332 kg",
+    "Old Burg Lake",
+    "Pieces of fish",
+    ""
+  ],
+  [
+    "Eel",
+    "3.509 kg",
+    "Old Burg Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Eel",
+    "2.236 kg",
+    "Old Burg Lake",
+    "Pieces of fish",
+    ""
+  ],
+  [
+    "Eel",
+    "853 g",
+    "Old Burg Lake",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Eel",
+    "343 g",
+    "Old Burg Lake",
+    "Pieces of fish",
+    ""
+  ],
+  [
+    "Frame-sided carp",
+    "11.189 kg",
+    "The Amber Lake",
+    "Tutti-Frutti 20",
+    "Tutti-Frutti 15 Soluble"
+  ],
+  [
+    "Freshwater Crayfish",
+    "112 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Freshwater Crayfish",
+    "83 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Freshwater Crayfish",
+    "82 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Freshwater Crayfish",
+    "54 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Redworm"
+  ],
+  [
+    "Freshwater Crayfish",
+    "52 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Frog",
+    "161 g",
+    "Mosquito Lake",
+    "Fly",
+    ""
+  ],
+  [
+    "Frog",
+    "152 g",
+    "Mosquito Lake",
+    "Fly",
+    ""
+  ],
+  [
+    "Frog",
+    "150 g",
+    "Mosquito Lake",
+    "Horse-fly",
+    ""
+  ],
+  [
+    "Frog",
+    "147 g",
+    "Mosquito Lake",
+    "Fly",
+    ""
+  ],
+  [
+    "Frog",
+    "145 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "2.360 kg",
+    "Old Burg Lake",
+    "A bunch of algae",
+    "Diced potatoes"
+  ],
+  [
+    "Gibel Carp",
+    "2.184 kg",
+    "Mosquito Lake",
+    "Wet Bread",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "2.059 kg",
+    "Mosquito Lake",
+    "Sweet dough",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "2.055 kg",
+    "Mosquito Lake",
+    "Sweet dough",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "2.041 kg",
+    "Mosquito Lake",
+    "Sweet dough",
+    ""
+  ],
+  [
+    "Grass Carp",
+    "14.387 kg",
+    "Akhtuba River",
+    "Diced potatoes",
+    "Pearl barley"
+  ],
+  [
+    "Grass Carp",
+    "10.422 kg",
+    "Old Burg Lake",
+    "Nightcrawler",
+    "Diced cheese"
+  ],
+  [
+    "Grass Carp",
+    "8.760 kg",
+    "Bear Lake",
+    "Diced potatoes",
+    ""
+  ],
+  [
+    "Grass Carp",
+    "7.511 kg",
+    "Old Burg Lake",
+    "Nightcrawler",
+    ""
+  ],
+  [
+    "Grass Carp",
+    "6.214 kg",
+    "Bear Lake",
+    "Diced potatoes",
+    ""
+  ],
+  [
+    "Grayling",
+    "2.134 kg",
+    "Belaya River",
+    "Fly",
+    "Fly"
+  ],
+  [
+    "Grayling",
+    "1.889 kg",
+    "Belaya River",
+    "Diving beetle",
+    ""
+  ],
+  [
+    "Grayling",
+    "1.725 kg",
+    "Kuori Lake",
+    "Warble fly",
+    "Horse-fly"
+  ],
+  [
+    "Grayling",
+    "1.554 kg",
+    "Belaya River",
+    "Fly",
+    ""
+  ],
+  [
+    "Grayling",
+    "1.542 kg",
+    "Belaya River",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "136 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "133 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "132 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    "Fly"
+  ],
+  [
+    "Gudgeon",
+    "130 g",
+    "Winding Rivulet",
+    "Fly",
+    "Bloodworm"
+  ],
+  [
+    "Gudgeon",
+    "127 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Bloodworm"
+  ],
+  [
+    "Humpback Whitefish",
+    "1.572 kg",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Humpback Whitefish",
+    "1.306 kg",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Humpback Whitefish",
+    "1.118 kg",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Humpback Whitefish",
+    "996 g",
+    "Lower Tunguska River",
+    "Mayfly larva",
+    "Freshwater Gammarus"
+  ],
+  [
+    "Humpback Whitefish",
+    "977 g",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Ide",
+    "4.147 kg",
+    "Mosquito Lake",
+    "Bark beetle larva",
+    ""
+  ],
+  [
+    "Ide",
+    "3.596 kg",
+    "Mosquito Lake",
+    "Corn seeds",
+    ""
+  ],
+  [
+    "Ide",
+    "3.475 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Ide",
+    "3.459 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Ide",
+    "3.305 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Kamchatkan Rainbow Trout",
+    "916 g",
+    "Yama River",
+    "Fly",
+    ""
+  ],
+  [
+    "Kamchatkan Rainbow Trout",
+    "586 g",
+    "Yama River",
+    "Diving beetle",
+    "Freshwater Gammarus"
+  ],
+  [
+    "Kessler's Herring",
+    "670 g",
+    "Akhtuba River",
+    "Mole cricket",
+    "Cockchafer Larva"
+  ],
+  [
+    "Kessler's Herring",
+    "649 g",
+    "Akhtuba River",
+    "Cockchafer Larva",
+    "Pieces of fish"
+  ],
+  [
+    "Kessler's Herring",
+    "646 g",
+    "Akhtuba River",
+    "Mole cricket",
+    "Cockchafer Larva"
+  ],
+  [
+    "Kessler's Herring",
+    "634 g",
+    "Akhtuba River",
+    "Mayfly",
+    "Bark beetle larva"
+  ],
+  [
+    "Kessler's Herring",
+    "534 g",
+    "Akhtuba River",
+    "Mayfly",
+    "Bark beetle larva"
+  ],
+  [
+    "Kuori Whitefish",
+    "3.526 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Kuori Whitefish",
+    "3.328 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Kuori Whitefish",
+    "3.088 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Kuori Whitefish",
+    "2.766 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Kuori Whitefish",
+    "2.420 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Ladoga Lake Whitefish",
+    "425 g",
+    "Ladoga archipelago",
+    "Leech",
+    "Nightcrawler"
+  ],
+  [
+    "Lake Minnow",
+    "133 g",
+    "Lower Tunguska River",
+    "Fly",
+    ""
+  ],
+  [
+    "Lake Minnow",
+    "85 g",
+    "Lower Tunguska River",
+    "Fly",
+    ""
+  ],
+  [
+    "Lake Minnow",
+    "76 g",
+    "Lower Tunguska River",
+    "Worm",
+    "Bark beetle larva"
+  ],
+  [
+    "Lake Minnow",
+    "68 g",
+    "Lower Tunguska River",
+    "Caster",
+    ""
+  ],
+  [
+    "Lake Minnow",
+    "67 g",
+    "Lower Tunguska River",
+    "Worm",
+    "Bark beetle larva"
+  ],
+  [
+    "Lake Trout",
+    "5.482 kg",
+    "Kuori Lake",
+    "Cockchafer",
+    "Stonefly larva"
+  ],
+  [
+    "Lake Trout",
+    "4.467 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Lake Trout",
+    "4.137 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Worm"
+  ],
+  [
+    "Lake Trout",
+    "4.114 kg",
+    "Kuori Lake",
+    "Stonefly larva",
+    "Mayfly larva"
+  ],
+  [
+    "Lake Trout",
+    "3.714 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Ludoga Whitefish",
+    "2.273 kg",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Ludoga Whitefish",
+    "1.985 kg",
+    "Ladoga Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Ludoga Whitefish",
+    "1.949 kg",
+    "Ladoga Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Ludoga Whitefish",
+    "1.875 kg",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Ludoga Whitefish",
+    "1.860 kg",
+    "Ladoga Lake",
+    "Mayfly larva",
+    "Mayfly larva"
+  ],
+  [
+    "Masu",
+    "1.086 kg",
+    "Yama River",
+    "Grasshopper",
+    "Mayfly larva"
+  ],
+  [
+    "Masu sedentary",
+    "4.078 kg",
+    "Yama River",
+    "Stonefly larva",
+    "Grasshopper"
+  ],
+  [
+    "Masu sedentary",
+    "3.675 kg",
+    "Yama River",
+    "Diving beetle",
+    "Freshwater Gammarus"
+  ],
+  [
+    "Masu sedentary",
+    "2.719 kg",
+    "Yama River",
+    "Stonefly larva",
+    "Grasshopper"
+  ],
+  [
+    "Masu sedentary",
+    "1.520 kg",
+    "Yama River",
+    "Diving beetle",
+    "Grasshopper"
+  ],
+  [
+    "Masu sedentary",
+    "1.499 kg",
+    "Yama River",
+    "Dung beetle",
+    "Grasshopper"
+  ],
+  [
+    "Mirror Carp",
+    "9.363 kg",
+    "The Amber Lake",
+    "Tutti-Frutti 20",
+    "Tutti Frutti 15"
+  ],
+  [
+    "Mirror Carp",
+    "3.186 kg",
+    "Mosquito Lake",
+    "Cornmeal porridge",
+    "Worm"
+  ],
+  [
+    "Mirror Carp",
+    "3.105 kg",
+    "Mosquito Lake",
+    "Cornmeal porridge",
+    ""
+  ],
+  [
+    "Mirror Carp",
+    "2.560 kg",
+    "Mosquito Lake",
+    "Semolina",
+    ""
+  ],
+  [
+    "Mirror Carp",
+    "2.421 kg",
+    "Mosquito Lake",
+    "Sweet dough",
+    ""
+  ],
+  [
+    "Muksun",
+    "4.271 kg",
+    "Lower Tunguska River",
+    "Mayfly larva",
+    "Freshwater Gammarus"
+  ],
+  [
+    "Muksun",
+    "3.233 kg",
+    "Lower Tunguska River",
+    "Redworm",
+    "Freshwater Gammarus"
+  ],
+  [
+    "Muksun",
+    "2.312 kg",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Muksun",
+    "1.655 kg",
+    "Lower Tunguska River",
+    "Redworm",
+    "Mayfly larva"
+  ],
+  [
+    "Muksun",
+    "1.317 kg",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Nase",
+    "993 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Nase",
+    "951 g",
+    "Seversky Donets River",
+    "Caster",
+    "Bark beetle larva"
+  ],
+  [
+    "Nase",
+    "916 g",
+    "Winding Rivulet",
+    "A bunch of algae",
+    ""
+  ],
+  [
+    "Nase",
+    "863 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Nase",
+    "811 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Peled",
+    "2.098 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Peled",
+    "1.969 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Redworm"
+  ],
+  [
+    "Peled",
+    "1.937 kg",
+    "Lower Tunguska River",
+    "Fly",
+    "Bark beetle larva"
+  ],
+  [
+    "Peled",
+    "1.891 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Caddisfly"
+  ],
+  [
+    "Peled",
+    "1.871 kg",
+    "Kuori Lake",
+    "Stonefly larva",
+    ""
+  ],
+  [
+    "Perch",
+    "1.857 kg",
+    "Old Burg Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Perch",
+    "1.591 kg",
+    "Kuori Lake",
+    "Dung beetle",
+    "Mayfly larva"
+  ],
+  [
+    "Perch",
+    "1.556 kg",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Perch",
+    "1.508 kg",
+    "Winding Rivulet",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Perch",
+    "1.503 kg",
+    "Mosquito Lake",
+    "Worm",
+    "Sweet dough"
+  ],
+  [
+    "Pontic shad",
+    "508 g",
+    "Seversky Donets River",
+    "Mayfly",
+    "Bark beetle larva"
+  ],
+  [
+    "Pontic shad",
+    "423 g",
+    "Seversky Donets River",
+    "Mayfly",
+    ""
+  ],
+  [
+    "Pontic shad",
+    "366 g",
+    "Seversky Donets River",
+    "Mayfly",
+    "Mayfly larva"
+  ],
+  [
+    "Pontic shad",
+    "336 g",
+    "Seversky Donets River",
+    "Mayfly",
+    ""
+  ],
+  [
+    "Pontic shad",
+    "327 g",
+    "Seversky Donets River",
+    "Mayfly",
+    "Bark beetle larva"
+  ],
+  [
+    "Pumpkinseed Sunfish",
+    "379 g",
+    "Seversky Donets River",
+    "Bark beetle larva",
+    "Redworm"
+  ],
+  [
+    "Pumpkinseed Sunfish",
+    "287 g",
+    "Seversky Donets River",
+    "Bark beetle larva",
+    "Redworm"
+  ],
+  [
+    "Pumpkinseed Sunfish",
+    "234 g",
+    "Seversky Donets River",
+    "Bark beetle larva",
+    "Redworm"
+  ],
+  [
+    "Pumpkinseed Sunfish",
+    "226 g",
+    "Seversky Donets River",
+    "Worm",
+    "Pea porridge"
+  ],
+  [
+    "Pumpkinseed Sunfish",
+    "206 g",
+    "Seversky Donets River",
+    "Bark beetle larva",
+    "Redworm"
+  ],
+  [
+    "Rainbow Trout",
+    "1.571 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Rainbow Trout",
+    "976 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Rainbow Trout",
+    "520 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Rainbow Trout",
+    "479 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Mayfly larva"
+  ],
+  [
+    "Rainbow Trout",
+    "426 g",
+    "Kuori Lake",
+    "Cricket",
+    ""
+  ],
+  [
+    "Ripus",
+    "1.264 kg",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Ripus",
+    "1.239 kg",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Ripus",
+    "1.131 kg",
+    "Ladoga Lake",
+    "Mayfly larva",
+    "Mayfly larva"
+  ],
+  [
+    "Ripus",
+    "1.026 kg",
+    "Ladoga Lake",
+    "Mayfly larva",
+    "Mayfly larva"
+  ],
+  [
+    "Ripus",
+    "1.016 kg",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "River mussel",
+    "186 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "River mussel",
+    "153 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "River mussel",
+    "151 g",
+    "Winding Rivulet",
+    "Maggot",
+    ""
+  ],
+  [
+    "River mussel",
+    "149 g",
+    "Winding Rivulet",
+    "Bark beetle larva",
+    ""
+  ],
+  [
+    "River mussel",
+    "123 g",
+    "Winding Rivulet",
+    "Maggot",
+    "Bloodworm"
+  ],
+  [
+    "Round Whitefish",
+    "516 g",
+    "Yama River",
+    "Grasshopper",
+    "Mayfly larva"
+  ],
+  [
+    "Round Whitefish",
+    "98 g",
+    "Lower Tunguska River",
+    "Mayfly larva",
+    "Caddisfly"
+  ],
+  [
+    "Round Whitefish",
+    "92 g",
+    "Lower Tunguska River",
+    "Horse-fly",
+    "Bark beetle larva"
+  ],
+  [
+    "Rudd",
+    "1.311 kg",
+    "Seversky Donets River",
+    "Redworm",
+    "Mayfly"
+  ],
+  [
+    "Rudd",
+    "940 g",
+    "Sura River",
+    "Warble fly",
+    "Horse-fly"
+  ],
+  [
+    "Rudd",
+    "934 g",
+    "Seversky Donets River",
+    "Mayfly",
+    ""
+  ],
+  [
+    "Rudd",
+    "889 g",
+    "Seversky Donets River",
+    "Pearl barley",
+    ""
+  ],
+  [
+    "Rudd",
+    "886 g",
+    "Seversky Donets River",
+    "Horse-fly",
+    "Mayfly"
+  ],
+  [
+    "Ruffe",
+    "144 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Worm"
+  ],
+  [
+    "Ruffe",
+    "135 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Ruffe",
+    "134 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Ruffe",
+    "133 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Ruffe",
+    "133 g",
+    "Mosquito Lake",
+    "Maggot",
+    ""
+  ],
+  [
+    "Sevan Trout",
+    "2.098 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Sevan Trout",
+    "1.795 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Sevan Trout",
+    "1.470 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Sevan Trout",
+    "1.394 kg",
+    "Kuori Lake",
+    "Freshwater Gammarus",
+    ""
+  ],
+  [
+    "Sevan Trout",
+    "1.285 kg",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "2.317 kg",
+    "Yama River",
+    "Stonefly larva",
+    "Grasshopper"
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "1.388 kg",
+    "Yama River",
+    "Dung beetle",
+    "Grasshopper"
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "859 g",
+    "Lower Tunguska River",
+    "Redworm",
+    "Mayfly larva"
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "741 g",
+    "Lower Tunguska River",
+    "Fly",
+    "Caddisfly"
+  ],
+  [
+    "Sharp-snouted Lenok",
+    "649 g",
+    "Yama River",
+    "Dung beetle",
+    "Grasshopper"
+  ],
+  [
+    "Shemaya",
+    "102 g",
+    "Akhtuba River",
+    "Mayfly",
+    "Mayfly larva"
+  ],
+  [
+    "Shemaya",
+    "70 g",
+    "Akhtuba River",
+    "Bark beetle larva",
+    "Mayfly"
+  ],
+  [
+    "Siberian Char Loach",
+    "64 g",
+    "Lower Tunguska River",
+    "Fly",
+    ""
+  ],
+  [
+    "Siberian Char Loach",
+    "30 g",
+    "Lower Tunguska River",
+    "Fly",
+    "Caddisfly"
+  ],
+  [
+    "Siberian Char Loach",
+    "29 g",
+    "Lower Tunguska River",
+    "Fly",
+    ""
+  ],
+  [
+    "Siberian Char Loach",
+    "27 g",
+    "Lower Tunguska River",
+    "Caster",
+    ""
+  ],
+  [
+    "Siberian Char Loach",
+    "26 g",
+    "Lower Tunguska River",
+    "Horse-fly",
+    "Caster"
+  ],
+  [
+    "Siberian Dace",
+    "158 g",
+    "Lower Tunguska River",
+    "Fly",
+    "Caddisfly"
+  ],
+  [
+    "Siberian Dace",
+    "154 g",
+    "Lower Tunguska River",
+    "Fly",
+    ""
+  ],
+  [
+    "Siberian Dace",
+    "143 g",
+    "Lower Tunguska River",
+    "Horse-fly",
+    "Bark beetle larva"
+  ],
+  [
+    "Siberian Dace",
+    "128 g",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Siberian Dace",
+    "111 g",
+    "Lower Tunguska River",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Siberian Roach",
+    "235 g",
+    "Lower Tunguska River",
+    "Worm",
+    "Redworm"
+  ],
+  [
+    "Siberian Roach",
+    "30 g",
+    "Lower Tunguska River",
+    "Fly",
+    ""
+  ],
+  [
+    "Siberian Sardine Cisco",
+    "486 g",
+    "Lower Tunguska River",
+    "Redworm",
+    "Stonefly larva"
+  ],
+  [
+    "Siberian Sardine Cisco",
+    "472 g",
+    "Lower Tunguska River",
+    "Redworm",
+    ""
+  ],
+  [
+    "Siberian Sardine Cisco",
+    "424 g",
+    "Lower Tunguska River",
+    "Redworm",
+    "Redworm"
+  ],
+  [
+    "Siberian Sardine Cisco",
+    "359 g",
+    "Lower Tunguska River",
+    "Redworm",
+    "Stonefly larva"
+  ],
+  [
+    "Siberian Sardine Cisco",
+    "287 g",
+    "Lower Tunguska River",
+    "Redworm",
+    "Mayfly larva"
+  ],
+  [
+    "Sichel",
+    "1.431 kg",
+    "Seversky Donets River",
+    "Mayfly",
+    "Mayfly larva"
+  ],
+  [
+    "Sichel",
+    "1.390 kg",
+    "Seversky Donets River",
+    "Mayfly",
+    "Bark beetle larva"
+  ],
+  [
+    "Sichel",
+    "1.347 kg",
+    "Seversky Donets River",
+    "Mayfly",
+    ""
+  ],
+  [
+    "Sichel",
+    "1.298 kg",
+    "Seversky Donets River",
+    "Mayfly",
+    ""
+  ],
+  [
+    "Sichel",
+    "1.267 kg",
+    "Seversky Donets River",
+    "Mayfly",
+    "Mayfly larva"
+  ],
+  [
+    "Silver Carp",
+    "13.212 kg",
+    "Sura River",
+    "A bunch of algae",
+    "Wheat seeds"
+  ],
+  [
+    "Silver Carp",
+    "12.971 kg",
+    "Sura River",
+    "A bunch of algae",
+    "Wheat seeds"
+  ],
+  [
+    "Silver Carp",
+    "9.195 kg",
+    "Sura River",
+    "A bunch of algae",
+    "Wheat seeds"
+  ],
+  [
+    "Silver Carp",
+    "4.834 kg",
+    "Sura River",
+    "Wheat seeds",
+    "A bunch of algae"
+  ],
+  [
+    "Silver Carp",
+    "2.604 kg",
+    "Akhtuba River",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Small Southern Stickleback",
+    "20 g",
+    "Akhtuba River",
+    "Bloodworm",
+    "Caddisfly"
+  ],
+  [
+    "Small Southern Stickleback",
+    "17 g",
+    "Akhtuba River",
+    "Bloodworm",
+    "Caddisfly"
+  ],
+  [
+    "Smelt",
+    "128 g",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Smelt",
+    "99 g",
+    "Ladoga Lake",
+    "Mayfly larva",
+    "Stonefly larva"
+  ],
+  [
+    "Smelt",
+    "78 g",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Smelt",
+    "75 g",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Smelt",
+    "74 g",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Sockeye Salmon",
+    "1.688 kg",
+    "Yama River",
+    "Diving beetle",
+    "Freshwater Gammarus"
+  ],
+  [
+    "Sockeye Salmon",
+    "958 g",
+    "Yama River",
+    "Diving beetle",
+    "Grasshopper"
+  ],
+  [
+    "Sterlet",
+    "1.638 kg",
+    "Akhtuba River",
+    "Rhinoceros beetle larva",
+    "Pieces of fish"
+  ],
+  [
+    "Taimen",
+    "2.688 kg",
+    "Lower Tunguska River",
+    "Mayfly larva",
+    "Freshwater Gammarus"
+  ],
+  [
+    "Taran",
+    "1.163 kg",
+    "Seversky Donets River",
+    "Caster",
+    "Bark beetle larva"
+  ],
+  [
+    "Taran",
+    "1.036 kg",
+    "Seversky Donets River",
+    "Bark beetle larva",
+    "Redworm"
+  ],
+  [
+    "Taran",
+    "1.030 kg",
+    "Seversky Donets River",
+    "Caster",
+    "Bark beetle larva"
+  ],
+  [
+    "Taran",
+    "960 g",
+    "Seversky Donets River",
+    "Pearl barley",
+    "Caster"
+  ],
+  [
+    "Taran",
+    "853 g",
+    "Seversky Donets River",
+    "Caster",
+    ""
+  ],
+  [
+    "Tench",
+    "3.777 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    "Diced cheese"
+  ],
+  [
+    "Tench",
+    "3.331 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Tench",
+    "3.041 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Tench",
+    "2.889 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    "Cottage cheese dough"
+  ],
+  [
+    "Tench",
+    "2.762 kg",
+    "Winding Rivulet",
+    "Leech",
+    ""
+  ],
+  [
+    "Three-spined Stickleback",
+    "23 g",
+    "Ladoga Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Three-spined Stickleback",
+    "22 g",
+    "Ladoga Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Three-spined Stickleback",
+    "18 g",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Three-spined Stickleback",
+    "16 g",
+    "Ladoga Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Three-spined Stickleback",
+    "10 g",
+    "Ladoga Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Tugun",
+    "47 g",
+    "Lower Tunguska River",
+    "Fly",
+    ""
+  ],
+  [
+    "Tugun",
+    "45 g",
+    "Lower Tunguska River",
+    "Fly",
+    ""
+  ],
+  [
+    "Tugun",
+    "44 g",
+    "Lower Tunguska River",
+    "Fly",
+    ""
+  ],
+  [
+    "Tugun",
+    "40 g",
+    "Lower Tunguska River",
+    "Fly",
+    ""
+  ],
+  [
+    "Tugun",
+    "38 g",
+    "Lower Tunguska River",
+    "Caster",
+    ""
+  ],
+  [
+    "Ugui",
+    "897 g",
+    "Yama River",
+    "Diving beetle",
+    "Grasshopper"
+  ],
+  [
+    "Ugui",
+    "377 g",
+    "Yama River",
+    "Stonefly larva",
+    "Grasshopper"
+  ],
+  [
+    "Ugui",
+    "331 g",
+    "Yama River",
+    "Diving beetle",
+    "Freshwater Gammarus"
+  ],
+  [
+    "Ugui",
+    "321 g",
+    "Yama River",
+    "Diving beetle",
+    "Grasshopper"
+  ],
+  [
+    "Ugui",
+    "213 g",
+    "Yama River",
+    "Dung beetle",
+    "Grasshopper"
+  ],
+  [
+    "Valaam Whitefish",
+    "464 g",
+    "Ladoga archipelago",
+    "Leech",
+    "Nightcrawler"
+  ],
+  [
+    "Vendace",
+    "664 g",
+    "Kuori Lake",
+    "Freshwater Gammarus",
+    "Stonefly larva"
+  ],
+  [
+    "Vendace",
+    "617 g",
+    "Kuori Lake",
+    "Diving beetle",
+    "Mayfly larva"
+  ],
+  [
+    "Vendace",
+    "610 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Vendace",
+    "554 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Vendace",
+    "508 g",
+    "Kuori Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Volga Zander",
+    "602 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Volga Zander",
+    "584 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Volga Zander",
+    "556 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Nightcrawler"
+  ],
+  [
+    "Volga Zander",
+    "523 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Volga Zander",
+    "366 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "Vuoksa Whitefish",
+    "1.248 kg",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "Vuoksa Whitefish",
+    "856 g",
+    "Ladoga Lake",
+    "Leech",
+    "Diving beetle"
+  ],
+  [
+    "Vuoksa Whitefish",
+    "641 g",
+    "Ladoga Lake",
+    "Stonefly larva",
+    ""
+  ],
+  [
+    "Vuoksa Whitefish",
+    "487 g",
+    "Ladoga Lake",
+    "Stonefly larva",
+    ""
+  ],
+  [
+    "Vuoksa Whitefish",
+    "397 g",
+    "Ladoga Lake",
+    "Mayfly larva",
+    ""
+  ],
+  [
+    "White Bream",
+    "917 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "White Bream",
+    "847 g",
+    "Winding Rivulet",
+    "Caster",
+    "Bloodworm"
+  ],
+  [
+    "White Bream",
+    "812 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "White Bream",
+    "794 g",
+    "Seversky Donets River",
+    "Bloodworm",
+    "Maggot"
+  ],
+  [
+    "White Bream",
+    "787 g",
+    "Kuori Lake",
+    "Dung beetle",
+    "Mayfly larva"
+  ],
+  [
+    "White-eye Bream",
+    "564 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "White-eye Bream",
+    "512 g",
+    "Winding Rivulet",
+    "Redworm",
+    ""
+  ],
+  [
+    "White-eye Bream",
+    "413 g",
+    "Winding Rivulet",
+    "Worm",
+    "Garlic dough"
+  ],
+  [
+    "White-eye Bream",
+    "385 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "White-eye Bream",
+    "322 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Whitespotted Char",
+    "626 g",
+    "Yama River",
+    "Diving beetle",
+    "Grasshopper"
+  ],
+  [
+    "Wild Carp",
+    "4.725 kg",
+    "Akhtuba River",
+    "Rhinoceros beetle larva",
+    "Pieces of fish"
+  ],
+  [
+    "Wild Carp",
+    "3.413 kg",
+    "Akhtuba River",
+    "Mole cricket",
+    "Cockchafer Larva"
+  ],
+  [
+    "Wild Carp",
+    "2.477 kg",
+    "Akhtuba River",
+    "Cockchafer Larva",
+    "Pieces of fish"
+  ],
+  [
+    "Wild Carp",
+    "2.006 kg",
+    "Akhtuba River",
+    "Mole cricket",
+    "Cockchafer Larva"
+  ],
+  [
+    "Wild Carp",
+    "1.293 kg",
+    "Sura River",
+    "Wheat seeds",
+    "A bunch of algae"
+  ],
+  [
+    "Zebra Mussel",
+    "132 g",
+    "Winding Rivulet",
+    "Caster",
+    "Redworm"
+  ],
+  [
+    "Zebra Mussel",
+    "127 g",
+    "Winding Rivulet",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Zebra Mussel",
+    "120 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Zebra Mussel",
+    "108 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Zebra Mussel",
+    "103 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ]
+]

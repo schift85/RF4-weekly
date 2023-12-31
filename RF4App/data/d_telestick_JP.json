@@ -1,0 +1,541 @@
+[
+  [
+    "Bleak",
+    "136 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Bleak",
+    "121 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Bleak",
+    "91 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Bleak",
+    "79 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Bleak",
+    "57 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Bream",
+    "3.837 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Bream",
+    "2.145 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Bream",
+    "1.484 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Bream",
+    "1.053 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Bream",
+    "837 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "265 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "241 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "124 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "111 g",
+    "Mosquito Lake",
+    "Redworm",
+    ""
+  ],
+  [
+    "Chinese Sleeper",
+    "106 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Chub",
+    "1.515 kg",
+    "Winding Rivulet",
+    "Dung beetle",
+    ""
+  ],
+  [
+    "Chub",
+    "749 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Chub",
+    "558 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Chub",
+    "424 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Chub",
+    "419 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Common Roach",
+    "827 g",
+    "Mosquito Lake",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Common Roach",
+    "582 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Common Roach",
+    "565 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Common Roach",
+    "475 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Common Roach",
+    "461 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "715 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "707 g",
+    "Mosquito Lake",
+    "Sweet dough",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "440 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "336 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Crucian Carp",
+    "329 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Dace",
+    "110 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Dace",
+    "85 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Dace",
+    "62 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Dace",
+    "56 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Dace",
+    "56 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Frog",
+    "30 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "988 g",
+    "Winding Rivulet",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "767 g",
+    "Mosquito Lake",
+    "Sweet dough",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "650 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "587 g",
+    "Mosquito Lake",
+    "Sweet dough",
+    ""
+  ],
+  [
+    "Gibel Carp",
+    "570 g",
+    "Mosquito Lake",
+    "Sweet dough",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "62 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "59 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "48 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "40 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Gudgeon",
+    "39 g",
+    "Winding Rivulet",
+    "Fly",
+    ""
+  ],
+  [
+    "Ide",
+    "1.117 kg",
+    "Mosquito Lake",
+    "Cottage cheese dough",
+    ""
+  ],
+  [
+    "Ide",
+    "993 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Ide",
+    "568 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Nase",
+    "287 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Nase",
+    "263 g",
+    "Winding Rivulet",
+    "Caster",
+    ""
+  ],
+  [
+    "Nase",
+    "223 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Nase",
+    "78 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Nase",
+    "59 g",
+    "Winding Rivulet",
+    "Caddisfly",
+    ""
+  ],
+  [
+    "Perch",
+    "657 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Perch",
+    "343 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Perch",
+    "307 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Perch",
+    "291 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Perch",
+    "283 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Pumpkinseed Sunfish",
+    "92 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Bloodworm"
+  ],
+  [
+    "Ruffe",
+    "70 g",
+    "Mosquito Lake",
+    "Worm",
+    ""
+  ],
+  [
+    "Ruffe",
+    "53 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Ruffe",
+    "47 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Ruffe",
+    "45 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "Ruffe",
+    "33 g",
+    "Old Burg Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Taran",
+    "526 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Taran",
+    "433 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Bark beetle larva"
+  ],
+  [
+    "Taran",
+    "394 g",
+    "Seversky Donets River",
+    "Caster",
+    "Maggot"
+  ],
+  [
+    "Taran",
+    "283 g",
+    "Seversky Donets River",
+    "Caster",
+    "Maggot"
+  ],
+  [
+    "Taran",
+    "228 g",
+    "Seversky Donets River",
+    "Redworm",
+    "Bloodworm"
+  ],
+  [
+    "Tench",
+    "1.663 kg",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Tench",
+    "462 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Tench",
+    "354 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "Tench",
+    "280 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "White Bream",
+    "537 g",
+    "Winding Rivulet",
+    "Worm",
+    ""
+  ],
+  [
+    "White Bream",
+    "300 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ],
+  [
+    "White Bream",
+    "101 g",
+    "Mosquito Lake",
+    "Bloodworm",
+    ""
+  ]
+]
