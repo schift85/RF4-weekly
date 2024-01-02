@@ -71,31 +71,14 @@ class RF4App(tk.Tk):
         for map_name in self.map_list:
             self.map_dict[map_name] = customtkinter.CTkImage(Image.open(self.dir_path + f'/data/maps/{map_name}.png'), size=(450, 450))
 
-    
-    
-    
     def reload_data(self):
-        self.reload_app = self.dir_path + '/data/RF4Scraper.py'
-        try:
-            subprocess.call(['python', self.reload_app])
-            self.get_last_modified_date()
-            self.last_update_date.configure(text='Last update: ' + self.last_modified_date)
-        except subprocess.CalledProcessError as e:
-            print(f'Error: {e}')
-
-    
-    ''' def reload_data(self):
         self.reload_app = self.dir_path + '/data/RF4Scraper.exe'
         try:
             subprocess.run([self.reload_app], check=True)
             self.get_last_modified_date()
             self.last_update_date.configure(text='Last update: ' + self.last_modified_date)
         except subprocess.CalledProcessError as e:
-            print(f'Error: {e}') '''
-
-
-
-
+            print(f'Error: {e}')
 
     def get_last_modified_date(self):
         try:
